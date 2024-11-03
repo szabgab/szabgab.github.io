@@ -1,6 +1,6 @@
 # Welcome
 
-This is some text **emphasied** and __italic__ text
+This is some text **emphasied** and _italic_ text
 
 ## Subtitle
 
