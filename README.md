@@ -1,5 +1,8 @@
 # Welcome
 
+
+[course](https://github.com/szabgab/wis-python-course-2024-11?tab=readme-ov-file)
+
 This is some text **emphasied** and _italic_ text
 
 ## Subtitle
