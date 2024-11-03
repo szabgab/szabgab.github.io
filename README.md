@@ -7,6 +7,8 @@ This is some text **emphasied** and _italic_ text
 * apple
 * banana
 
+![my ant](little-black-ants.jpg)
+
 1. snake
 1. snail
 1. cat 
