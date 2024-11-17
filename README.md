@@ -9,6 +9,7 @@ This is some text **emphasied** and _italic_ text
 
 * apple
 * banana
+* peach
 
 ![my ant](little-black-ants.jpg)
 
