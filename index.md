@@ -1,3 +1,7 @@
+---
+title: Welcome
+---
+
 # Welcome to my demo
 
 ## Some subtitle
